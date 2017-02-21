@@ -1,6 +1,6 @@
-# keeps
+# KeepS
 
-> continuous learning app
+> Longlife learning with formative testing
 
 ## Build Setup
 
